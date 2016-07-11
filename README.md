@@ -27,7 +27,7 @@ dependency {
 }
 ```
 
-## 2. Getting started
+## 2. Get started
 
 ### 2.1 Register your application
 
